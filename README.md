@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Leeloo - @leeloodgit
+- 👋 Hi, I’m Elodie - @leeloodgit
 - 🌱 I’m a student & currently learning frontend development 
 - 💞️ I’m looking to level up my coding skills
 
